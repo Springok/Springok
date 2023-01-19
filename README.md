@@ -1,9 +1,9 @@
 ### Hi there, I'm Wenchuan 👋
+You can find my personal preference for software development [here](https://github.com/Springok/dotfiles)
 
 ### 🌱 I’m currently learning ...
-- Clojure
-- Lua for Neovim 
-- Ruby 
+- Solving advent of code Clojure, you can check [here](https://github.com/Springok/advent-of-code)
+- Lua for Neovim, you can check [here](https://github.com/Springok/wconfig) 
 
 ### 📫 You can also find me at 
 - [Linkedin](https://tw.linkedin.com/in/wenchuanlin)
