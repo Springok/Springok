@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Wenchuan 👋
+
+### 🌱 I’m currently learning ...
+- Clojure
+- Lua for Neovim 
+- Ruby 
+
+### 📫 You can also find me at 
+- [Linkedin](https://tw.linkedin.com/in/wenchuanlin)
+
 
 <!--
 **Springok/Springok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
